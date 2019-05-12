@@ -70,6 +70,8 @@ Open ```config.py``` in Python IDLE or Notepad++ , and edit the fields.
 
 ### AutoStart
 
-To start jarvis when syatem starts, create a shortcut of jstart.vbs and copy it to windows startup folder.
+To start jarvis when syatem starts, create a shortcut of jarvisstart.bat and copy it to windows startup folder.
+
+To start jarvis without window, create and copy the shortcut of jstart.vbs to windows startup folder.
 
 
