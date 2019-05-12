@@ -27,6 +27,10 @@ Check your Google Chrome version and download ```chromedriver``` from [here](htt
 
 Open ```config.py``` in Python IDLE or Notepad++ , and edit the fields.
 
+Open command window in JARVIS-DesktopAssistant folder and type ```python core.py```
+
+or, simply run jarvisstarter.bat.
+
 ### Features and Commands
 
 ◼️ _hello jarvis (or the name you are given), hi, hey_ to start using jarvis.
