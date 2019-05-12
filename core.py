@@ -1,4 +1,5 @@
 import smtplib
+import wikipedia
 import winshell
 from gspeak import *
 from battery_events import *
