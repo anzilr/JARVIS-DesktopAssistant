@@ -5,7 +5,7 @@ wolframalpha==3.0.1
 winshell==0.6
 textblob==0.15.3
 pywin32==224
-psutil==5.6.2
+psutil==5.6.6
 playsound==1.2.2
 selenium==3.141.0
 SpeechRecognition==3.8.1
