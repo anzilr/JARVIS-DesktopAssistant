@@ -1,4 +1,4 @@
-# JARVIS-DesktopAssistant
+# JARVIS-Desktop Assistant
 A simple python desktop assistant like jarvis.
 
 ## Installation
